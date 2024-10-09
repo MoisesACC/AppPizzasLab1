@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AppPizza" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Color Primario -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+
+        <!-- Color Secundario -->
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+
+        <!-- Color de Acento -->
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Fondo y texto -->
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="android:textColor">@color/colorText</item>
+    </style>
+
+    <style name="Theme.AppPizza" parent="Base.Theme.AppPizza" />
+</resources>
